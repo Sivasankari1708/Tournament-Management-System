@@ -1,0 +1,16 @@
+# Tournament Management System
+
+A modern sports tournament registration platform built using:
+
+- React
+- TypeScript
+- Tailwind CSS
+- FastAPI
+- Firebase OTP Authentication
+
+Features:
+- Tournament listings
+- OTP login
+- Team registration
+- Rules section
+- Responsive modern UI
